@@ -8,6 +8,7 @@ Image classification is a fundamental task in computer vision that involves cate
 ## Dataset
 
 The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 classes, with 6,000 images per class. The dataset is divided into 50,000 training images and 10,000 test images. The classes include objects such as airplanes, automobiles, birds, cats, and more. The dataset is widely used for benchmarking image classification algorithms and evaluating model performance.
+dataset Link :- https://www.cs.toronto.edu/~kriz/cifar.html
 
 ## Methodology
 
